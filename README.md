@@ -17,4 +17,9 @@ Readme
 ### Drawing responsiveness
 
 - Should work with most common tablets, Wacom, Huion, ...
-- 
+
+### File formats
+
+- CSV for organizing the Cue card content: Universal Format, easily shareable.
+- URL/JPG. for IMG files likes DRAWINGS.
+- AUDIO?
