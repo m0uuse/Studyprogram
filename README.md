@@ -1,3 +1,5 @@
+***Everything subject to change***
+
 Readme
 
 ## Initital Idea
@@ -22,4 +24,28 @@ Readme
 
 - CSV for organizing the Cue card content: Universal Format, easily shareable.
 - URL/JPG. for IMG files likes DRAWINGS.
-- AUDIO?
+- AUDIO?????????????????????????????????????????????????????????y
+- 
+
+
+
+### Putting It Together
+
+- A typical workflow might look like:
+- Use WinTab or PyQt to capture raw pen data.
+- Store strokes (x, y, pressure, timestamp).
+- Visualize with pygame/matplotlib for debugging.
+- Feed the data into a machine learning pipeline for handwriting recognition or gesture detection.
+
+## Ideas
+
+- Scientists/physicist methods research
+- youtube videos
+- get mad
+- trial and error
+- try new methods
+- motivational side character to keep you going
+- customizable side character 
+- just remember
+- relaxing music
+- 
