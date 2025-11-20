@@ -48,4 +48,17 @@ Readme
 - customizable side character 
 - just remember
 - relaxing music
-- 
+- study reminders
+- pomodoro
+
+
+- Active recall: Testing yourself instead of rereading notes. Forces your brain to retrieve information.
+- Spaced repetition: Reviewing material at increasing intervals to strengthen long-term memory.
+- Practice testing: Using quizzes or mock exams to simulate real test conditions.
+- Note-taking strategies: Cornell notes, outlining, or digital annotation to organize information clearly.
+- Mind mapping: Visual diagrams that connect concepts, useful for complex subjects.
+- Pomodoro technique: 25-minute focused study blocks followed by short breaks.
+- Interleaving: Mixing different topics or problem types in one session to improve adaptability.
+- Elaboration: Explaining concepts in your own words to deepen understanding.
+- Dual coding: Combining text with visuals (charts, diagrams) to reinforce learning.
+- SQ3R method: Survey, Question, Read, Recite, Review — structured reading comprehension strategy.
